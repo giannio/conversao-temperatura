@@ -3,5 +3,5 @@ exports.celsiusFahrenheit = (valor) => {
 };
 
 exports.fahrenheitCelsius = (valor) => {
-    return ((valor - 31) * 5) / 9;
+    return ((valor - 32) * 5) / 9;
 };
